@@ -143,4 +143,4 @@ class VHIApp(server.App):
         return ax.get_figure()
 
 app = VHIApp()
-app.launch(port=9093)
+app.launch(port=9073)
